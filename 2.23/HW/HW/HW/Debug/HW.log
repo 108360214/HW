@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\lee\desktop\108360214李虹螣\2.23\hw\hw\hw\main.c(58): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\lee\desktop\108360214李虹螣\2.23\hw\hw\hw\main.c(58): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+c:\users\lee\desktop\108360214李虹螣\2.23\hw\hw\hw\main.c(9): warning C4101: 'last_number': 未參考的區域變數
+c:\users\lee\desktop\108360214李虹螣\2.23\hw\hw\hw\main.c(9): warning C4101: 'first_number': 未參考的區域變數
+c:\users\lee\desktop\108360214李虹螣\2.23\hw\hw\hw\main.c(9): warning C4101: 'second_number': 未參考的區域變數
+  HW.vcxproj -> C:\Users\Lee\Desktop\108360214李虹螣\2.23\HW\HW\Debug\HW.exe
+  HW.vcxproj -> C:\Users\Lee\Desktop\108360214李虹螣\2.23\HW\HW\Debug\HW.pdb (Partial PDB)
